@@ -1,0 +1,10 @@
+[workspace]
+members = [
+  "weld",
+  "weld-capi",
+  "weld-repl",
+  "weld-hdrgen"
+]
+exclude = [
+  "weld-python"
+]
